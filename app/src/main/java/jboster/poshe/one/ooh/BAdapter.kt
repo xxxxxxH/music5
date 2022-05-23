@@ -41,7 +41,6 @@ class BAdapter(data: List<Int>, activity: Activity) :
                         holder.layout.addView(it)
                     }
                 }
-
             }
             else -> {
                 val image = ImageView(holder.layout.context)

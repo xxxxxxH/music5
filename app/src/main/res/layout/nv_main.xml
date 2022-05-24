@@ -13,7 +13,7 @@
     <ImageView
         android:layout_width="78dp"
         android:layout_height="78dp"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="23dp"
         app:srcCompat="@mipmap/nv1"/>
 
     <LinearLayout
@@ -126,9 +126,9 @@
                 android:layout_height="wrap_content"
                 android:layout_centerVertical="true"
                 android:text="Function"
-                android:textStyle="bold"
                 android:textColor="#000000"
-                android:textSize="14sp" />
+                android:textSize="14sp"
+                android:textStyle="bold" />
         </RelativeLayout>
 
         <View
@@ -168,6 +168,7 @@
         </LinearLayout>
 
         <LinearLayout
+            android:id="@+id/yinxiao"
             android:layout_width="match_parent"
             android:layout_height="53dp"
             android:orientation="horizontal"
@@ -217,8 +218,9 @@
                 android:layout_height="wrap_content"
                 android:layout_centerVertical="true"
                 android:text="Other"
-                android:textColor="#B0B0B0"
-                android:textSize="14sp" />
+                android:textColor="#000000"
+                android:textSize="14sp"
+                android:textStyle="bold" />
         </RelativeLayout>
 
         <View

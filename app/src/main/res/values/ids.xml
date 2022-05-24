@@ -1,15 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item type="id" name="open_ad_view_id" />
-
-    <string name="lovin_app_key">XPxZx2V96_iG7pvM4Tnv9Ci2gnTcttWt7PvgH4gkf-2zoyye4GosxpTV1dPNCvzgQPmf6oQpX9k-pQriMIx7HR</string>
-    <string name="lovin_insert_ad_id">9c309739bddffdd6</string>
-    <string name="lovin_native_ad_id">9f46f4dce13e9439</string>
-    <string name="lovin_banner_ad_id">9118452faf7b91cf</string>
-
-    <string name="top_on_app_id">a628468c4ddb35</string>
-    <string name="top_on_app_key">5ce813fb93a147bb3e537c1239e4a932</string>
-    <string name="top_on_open_ad_id">b628468d163463</string>
-
-
 </resources>

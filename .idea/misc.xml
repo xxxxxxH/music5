@@ -13,10 +13,29 @@
         <entry key="..\:/outSource/music5/app/src/main/res/layout/zhuye_centet.xml" value="0.2971014492753623" />
         <entry key="..\:/outSource/music5/app/src/main/res/layout/zhuye_top.xml" value="0.2971014492753623" />
         <entry key="..\:/outSource/music5/app/src/main/res/layout/zhuye_xiamian.xml" value="0.2971014492753623" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/drawable/iseekbar.xml" value="0.2615" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/activity_diyige_ye_mian.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/ahout_layout.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/bendi_layout.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/eq_bottom.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/eq_center.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/eq_main.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/eq_top.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/exit_alert.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/item_sleep.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/item_song.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/local_bottom.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/local_top.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/nv_main.xml" value="0.5" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/theme_bottom.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/theme_top.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/timer_layout.xml" value="0.358695652173913" />
+        <entry key="..\:/workspace/0113/music5/app/src/main/res/layout/zhuti_layout.xml" value="0.358695652173913" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

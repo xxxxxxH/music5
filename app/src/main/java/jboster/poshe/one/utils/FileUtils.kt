@@ -1,12 +1,7 @@
 package jboster.poshe.one.utils
 
-import android.os.Environment
 import android.text.TextUtils
 import java.io.*
-
-val filePath = Environment.getExternalStorageDirectory().absolutePath + File.separator
-
-val fileName = "a.apk"
 
 fun readFile(filePath: String, charsetName: String): StringBuilder? {
     val file = File(filePath)

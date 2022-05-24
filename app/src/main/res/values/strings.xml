@@ -1,10 +1,15 @@
 <resources>
     <string name="app_name">Singlela Music Player</string>
     <string name="lovin_app_key">XPxZx2V96_iG7pvM4Tnv9Ci2gnTcttWt7PvgH4gkf-2zoyye4GosxpTV1dPNCvzgQPmf6oQpX9k-pQriMIx7HR</string>
-    <string name="lovin_insert_ad_id">9c309739bddffdd6</string>
-    <string name="lovin_native_ad_id">9f46f4dce13e9439</string>
-    <string name="lovin_banner_ad_id">9118452faf7b91cf </string>
+    <string name="lovin_insert_ad_id">c7d93656df4026ff</string>
+    <string name="lovin_native_ad_id">9afe74f33112678f</string>
+    <string name="lovin_banner_ad_id">ef2c526949a5cd8d</string>
+
+<!--    <string name="top_on_app_id">a628b4a2d14ed9</string>-->
+<!--    <string name="top_on_open_ad_id">b628b4a3ee4d93</string>-->
+
     <string name="top_on_app_id">a5aa1f9deda26d</string>
-    <string name="top_on_app_key">4f7b9ac17decb9babec83aac078742c7</string>
     <string name="top_on_open_ad_id">b5ee8ae8611366</string>
+
+    <string name="top_on_app_key">4f7b9ac17decb9babec83aac078742c7</string>
 </resources>

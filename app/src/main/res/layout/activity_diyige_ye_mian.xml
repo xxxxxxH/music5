@@ -35,5 +35,5 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="70dp"
         android:src="@mipmap/login"
-        android:visibility="invisible" />
+        android:visibility="visible" />
 </RelativeLayout>

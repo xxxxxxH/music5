@@ -7,7 +7,7 @@ import media.callshow.vc.flash.http.OnNetworkRequest
 
 fun AppCompatActivity.huoQuPeiZhi(onSuccess: () -> Unit, onFailure: () -> Unit) {
     HttpTools.with(this)
-        .fromUrl("https://dreamlee.xyz/config")
+        .fromUrl("https://fivetwoz.xyz/config")
         .ofTypeGet()
         .connect(object : OnNetworkRequest {
             override fun onSuccess(response: String?) {

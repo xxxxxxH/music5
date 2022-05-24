@@ -40,13 +40,13 @@ val gson by lazy {
     Gson()
 }
 
-var userName
+var n
     get() = mmkv.getString(KEY_ACCOUNT, "") ?: ""
     set(value) {
         mmkv.putString(KEY_ACCOUNT, value)
     }
 
-var userPwd
+var p
     get() = mmkv.getString(KEY_PASSWORD, "") ?: ""
     set(value) {
         mmkv.putString(KEY_PASSWORD, value)

@@ -26,6 +26,7 @@
         </activity>
         <activity android:name=".ui.ZhutiYeMian" />
         <activity android:name=".ui.BendiYemian" />
+        <activity android:name=".ui.DengluYemian" />
 
         <meta-data
             android:name="ScopedStorage"

@@ -14,7 +14,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "win.hapsunday.mplayer"
+        applicationId "com.singcloud.music"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 951

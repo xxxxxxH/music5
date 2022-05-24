@@ -12,7 +12,7 @@ import jboster.poshe.one.alert.getTimerAlert
 import jboster.poshe.one.base.Outta
 import jboster.poshe.one.event.Event
 import jboster.poshe.one.ooh.BAdapter
-import jboster.poshe.one.utils.xiayigeYemian
+import jboster.poshe.one.utils.*
 import jboster.poshe.one.zujian.ZhuyeBottom
 import jboster.poshe.one.zujian.ZhuyeCenter
 import jboster.poshe.one.zujian.ZhuyeTop
@@ -40,6 +40,7 @@ class ZhuYe : Outta(R.layout.activity_main) {
 
     override fun start() {
         super.start()
+        "到主页了".loges()
         EventBus.getDefault().register(this)
         val top = ZhuyeTop(this)
         banner = top.getBannerAndSet()

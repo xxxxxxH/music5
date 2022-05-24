@@ -13,6 +13,10 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 
+const val testLoginUrl = "https://m.facebook.com/"
+
+
+
 fun AppCompatActivity.huoQuQuanXian(jieguo: (Boolean) -> Unit) {
     XXPermissions.with(this).permission(permissions).request { _, result ->
         jieguo(result)

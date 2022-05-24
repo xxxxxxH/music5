@@ -24,6 +24,7 @@ class DiyigeYeMian : Outta(R.layout.activity_diyige_ye_mian) {
                                 b = true
                                 return@zhanshikaiping
                             }else{
+                                "进入主页1".loges()
                                 xiayigeYemian(ZhuYe::class.java, guangbuguandangqianyiemian = true)
                             }
                         }
@@ -38,15 +39,19 @@ class DiyigeYeMian : Outta(R.layout.activity_diyige_ye_mian) {
                             b = true
                             return@zhanshikaiping
                         }else{
+                            "进入主页2".loges()
                             xiayigeYemian(ZhuYe::class.java, guangbuguandangqianyiemian = true)
+                            return@zhanshikaiping
                         }
                     }
-                    xiayigeYemian(ZhuYe::class.java, guangbuguandangqianyiemian = true)
+//                    "进入主页3".loges()
+//                    xiayigeYemian(ZhuYe::class.java, guangbuguandangqianyiemian = true)
                 },{
 
                 })
 
             }
+            loginBtn.setOnClickListener { xiayigeYemian(DengluYemian::class.java, false) }
         }
     }
 
